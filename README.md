@@ -1,5 +1,7 @@
 # BioSim U03 Mohamed Håkon
 
+Project created by Mohamed Omar Atteyeh and Håkon Strand.
+
 
 ## Installation Guide
 This is an installation guide for installing the BioSim simulator package. The package provides simulations
